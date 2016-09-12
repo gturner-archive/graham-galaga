@@ -1,0 +1,34 @@
+.game {
+  width: 800px;
+  height: 600px;
+  background: black;
+  position: relative;
+}
+
+.ship {
+  background: white;
+  position: absolute;
+  height: 24px;
+  width: 24px;
+}
+
+.beam {
+  background: white;
+  position: absolute;
+  height: 8px;
+  width: 8px;
+}
+
+.baddie {
+  height: 8px;
+  width: 32px;
+  background: red;
+  position: absolute;
+}
+
+.badbeam {
+  background: green;
+  height: 8px;
+  width: 8px;
+  position: absolute;
+}

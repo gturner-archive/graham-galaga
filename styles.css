@@ -1,0 +1,23 @@
+.game {
+  width: 800px;
+  font-size: 0;
+}
+
+.grid {
+  height: 8px;
+  width: 8px;
+  background: black;
+  display: inline-block;
+}
+
+.ship {
+  background: white;
+}
+
+.beam {
+  background: white;
+}
+
+.baddie {
+  background: red;
+}
